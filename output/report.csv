@@ -1,0 +1,4 @@
+Product,year,complaint_cnt,max_cmpny_cnt,max_cmpny_complaint_perc
+"credit reporting, credit repair services, or other personal consumer reports",2019,3,2,67.0
+"credit reporting, credit repair services, or other personal consumer reports",2020,1,1,100.0
+debt collection,2019,1,1,100.0
